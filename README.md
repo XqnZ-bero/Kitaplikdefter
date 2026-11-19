@@ -13,7 +13,9 @@ The first public release of Kitaplikdefter!
 1. Download `Kitaplikdefter-v1.0.0.zip`.
 2. Extract the ZIP file.
 3. Open the extracted folder.
-4. Run `KitaplikDefter.exe`.
+4. Run exe-yap.bat
+5. Go for Kitaplikdefter.exe 
+6. Run `KitaplikDefter.exe`.
 
 **Important:** Your notes are stored locally. Back up your data before uninstalling the application.
 
